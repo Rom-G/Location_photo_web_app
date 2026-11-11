@@ -1,6 +1,6 @@
 
 ## BR-016: Значения "Имя" и "Занятие" не обновляются на главной странице при нажатии кнопки "Сохранить" в окне редактирования профиля 
-**Severity:** Critical | **Priority:** High | **Environment:** Chrome 157, Windows 11
+**Severity:** Critical | **Status:** Opened | **Environment:** Chrome 157, Windows 11
 
 **Предусловия:**
 Открыто окно редактирования профиля
