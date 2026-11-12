@@ -15,4 +15,6 @@
 
 **Фактический результат:** кнопка "Сохранить" активна
 
-**Связанный кейс:** TC-09
+**Прикреплено:** [screenshot](../screenshots/name_button_is_active.png)
+
+**Связанный кейс:** [TC-09](../test-cases/TC-09-profile.md)
