@@ -16,4 +16,4 @@
 
 **Прикреплено:** [screenshot](../screenshots/error_name_1char.png)
 
-**Связанный кейс:** TC-08
+**Связанный кейс:** [TC-08](../test-cases/TC-08-profile.md)
