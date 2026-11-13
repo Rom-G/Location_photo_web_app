@@ -42,6 +42,7 @@
 regression-testing-project/
 ├── README.md              ← обзор проекта
 ├── test-plan.md           ← тест-план
+├── test-summary.md        ← итоги
 ├── test-cases/            ← тест-кейсы регресса
 ├── bug-reports/           ← баг-репорты (ретест и новые)
 └── screenshots/           ← подтверждения дефектов
