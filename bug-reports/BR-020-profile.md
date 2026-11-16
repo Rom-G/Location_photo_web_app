@@ -1,5 +1,5 @@
 ## BR-020: Кнопка "Сохранить" активна в окне редактирования профиля при пустом поле "Имя"
-**Severity:** High | **Status:** Opened | **Environment:** Windows 11 Pro 24H2, Chrome 157.0.8103.52 х64, [test_stand](https://code.s2.location.ru/qa/data/location/index.html)
+**Severity:** Major | **Status:** Opened | **Environment:** Windows 11 Pro 24H2, Chrome 157.0.8103.52 х64, [test_stand](https://code.s2.location.ru/qa/data/location/index.html)
 
 **Предусловия:**
 Открыто окно редактирования профиля
