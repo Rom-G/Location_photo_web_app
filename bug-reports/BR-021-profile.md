@@ -1,5 +1,5 @@
 ## BR-021: Сообщение об ошибке "Минимальное количество символов: 2. Длина текста сейчас: 1 символ." под полем "Занятие" в окне редактирования профиля при количестве символов меньше допустимого
-**Severity:** Minor | **Status:** Opened | **Environment:** Windows 11 Pro 24H2, Chrome 157.0.8103.52 х64, [test_stand](https://code.s2.location.ru/qa/data/location/index.html)
+**Severity:** Trivial | **Status:** Opened | **Environment:** Windows 11 Pro 24H2, Chrome 157.0.8103.52 х64, [test_stand](https://code.s2.location.ru/qa/data/location/index.html)
 
 **Предусловия:**
 Открыто окно редактирования профиля
