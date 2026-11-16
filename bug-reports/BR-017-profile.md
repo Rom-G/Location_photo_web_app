@@ -1,5 +1,5 @@
 ## BR-017: Пустое поле "Имя" при открытии окна редактирования профиля
-**Severity:** Low | **Status:** Opened | **Environment:** Windows 11 Pro 24H2, Chrome 157.0.8103.52 х64, [test_stand](https://code.s2.location.ru/qa/data/location/index.html)
+**Severity:** Minor | **Status:** Opened | **Environment:** Windows 11 Pro 24H2, Chrome 157.0.8103.52 х64, [test_stand](https://code.s2.location.ru/qa/data/location/index.html)
 
 **Предусловия:**
 Открыта главная страница
